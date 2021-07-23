@@ -1,0 +1,2 @@
+# scrapy-tempaltes
+Scrapy templates
