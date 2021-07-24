@@ -1,6 +1,6 @@
 # Scrapy templates
 ## Content
-Some useful templates for your scrapy project.
+Some templates for your scrapy project.
 Paths are set in config.py.
 
 - pipelines.py: 
